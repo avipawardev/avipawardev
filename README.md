@@ -30,13 +30,13 @@
 ## 💼 Featured Projects  
 
 <p align="center">
-  <a href="https://avinash-recipe-app.vercel.app/" target="_blank">
+  <a href="https://delightful-hotteok-443b24.netlify.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avipawardev&repo=recipe-sharing-app&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
-  <a href="https://student-id-generator.vercel.app/" target="_blank">
+  <a href="https://investment-portfolio-tracker-tan.vercel.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avipawardev&repo=student-id-generator&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
-  <a href="https://loan-application-system.vercel.app/" target="_blank">
+  <a href="https://loan-app-xi-eight.vercel.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avipawardev&repo=loan-application-system&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
 </p>
