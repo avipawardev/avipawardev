@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Gilroy+ExtraBold&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Avinash+Pawar;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">✨ Building smooth, modern, and animated web experiences ✨</h3>
+<h3 align="center">✨ Turning ideas into dynamic, interactive, and visually engaging web experiences ⚡ ✨</h3>
 
 ---
 
