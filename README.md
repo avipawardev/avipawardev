@@ -1,28 +1,36 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#61dafb;">Avinash Pawar</span></h1>
-<h3 align="center">🚀 Full-Stack Web Developer | MERN Stack | Problem Solver</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Gilroy+ExtraBold&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Avinash+Pawar;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+<h3 align="center">✨ Building smooth, modern, and animated web experiences ✨</h3>
 
 ---
 
 ## 🧭 About Me  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Full%20Stack%20Developer-61dafb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥_MERN%20Stack%20Enthusiast-fb61da?style=for-the-badge" />
+</p>
+
 - 🔭 Working on **Real-world full-stack projects**  
-- 🌱 Learning **Advanced Backend Concepts, Redis, and DSA**  
-- 🤝 Open to **freelance projects** & **open-source collaboration**  
-- 💬 Ask me about **MERN stack, Firebase, GSAP animations, and problem solving**  
+- 🌱 Exploring **Advanced Backend, Redis, and DSA**  
+- 💬 Ask me about **React, Firebase, GSAP, and animations**  
 - 📫 Reach me at: **[avipawar.dev@gmail.com](mailto:avipawar.dev@gmail.com)**  
-- ⚡ Fun Fact: *I can turn boring UIs into smooth animations using GSAP ✨*  
+- ⚡ Fun Fact: *I can turn static UIs into cinematic experiences with GSAP 🎬*
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### ⚙️ Languages, Frameworks & Tools  
+<h3 align="center">⚙️ Languages, Frameworks & Tools</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,tailwind,git,github,gsap,vscode,postman&perline=8&theme=light" width="90%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,tailwind,git,github,gsap,vscode,postman&perline=8&theme=light" width="92%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" alt="animated divider"/>
 </p>
 
 ---
@@ -30,30 +38,30 @@
 ## 💼 Featured Projects  
 
 <p align="center">
-  <a href="https://delightful-hotteok-443b24.netlify.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avipawardev&repo=recipe-sharing-app&theme=radical&border_color=61dafb&border_radius=12" />
+  <a href="https://github.com/avipawardev/Recipe-Sharing-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avipawardev&repo=Recipe-Sharing-App&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
-  <a href="https://investment-portfolio-tracker-tan.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avipawardev&repo=student-id-generator&theme=radical&border_color=61dafb&border_radius=12" />
+  <a href="https://github.com/avipawardev/investment-portfolio-tracker" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avipawardev&repo=investment-portfolio-tracker&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
-  <a href="https://loan-app-xi-eight.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avipawardev&repo=loan-application-system&theme=radical&border_color=61dafb&border_radius=12" />
+  <a href="https://github.com/avipawardev/loan-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avipawardev&repo=loan-app&theme=radical&border_color=61dafb&border_radius=12" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/avipawardev/avipawardev/blob/main/assets/project-line.svg" alt="divider" width="90%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="85%" alt="animated divider" />
 </p>
 
-> 🧠 *Each project helped me dive deeper into backend scalability, front-end polish, and clean UI architecture.*
+> 🧠 *Each project helped me level up frontend elegance, backend logic, and motion design.*
 
 ---
 
 ## 🧩 Problem Solving  
 
-- 🧠 I love tackling **algorithmic challenges** and improving code efficiency  
-- 💡 Solved DSA problems on **LeetCode** & **GeeksforGeeks**  
-- 💻 Focused on writing **clean, optimized, and maintainable code**  
+- 🧠 Solving **data structure & algorithm** challenges on **LeetCode**  
+- 🧮 Writing **optimized, clean, and modular** code  
+- 💡 Passionate about **real-world problem solving**
 
 ---
 
@@ -82,5 +90,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=22&animation=twinkling&fontAlignY=70"/>
 </p>
