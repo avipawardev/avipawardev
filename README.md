@@ -36,7 +36,6 @@
 ---
 
 ## 💼 Featured Projects  
-
 <p align="center">
   <a href="https://github.com/avipawardev/Recipe-Sharing-App" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avipawardev&repo=Recipe-Sharing-App&theme=radical&border_color=61dafb&border_radius=12" />
